@@ -1,0 +1,33 @@
+{
+  "name": "veritatisquo",
+  "version": "1.0.0",
+  "description": "A replacement for Typescript's default awaiter helper that supports Bluebird promise cancellations.",
+  "keywords": [
+    "id",
+    "cancellable",
+    "awaiter",
+    "__awaiter",
+    "typescript",
+    "nihil",
+    "eos",
+    "dicta",
+    "consequatur",
+    "iusto",
+    "mollitia",
+    "deleniti"
+  ],
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HayleyKunze/veritatisquo.git"
+  },
+  "author": "ConradProsacco",
+  "license": "MIT",
+  "peerDependencies": {
+    "bluebird": "^3.4.7"
+  },
+  "bugs": {
+    "url": "https://github.com/HayleyKunze/veritatisquo.git/issues"
+  }
+}
